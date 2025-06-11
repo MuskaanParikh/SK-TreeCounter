@@ -1,4 +1,4 @@
-# SK-tree-counter
+# SK - Tree counter
 Python Course - Tree Counter
 
 ## 🧠 Problem Statement
